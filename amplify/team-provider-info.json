@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-boltayano-dev-201714-authRole",
+      "UnauthRoleArn": "arn:aws:iam::340659282827:role/amplify-boltayano-dev-201714-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::340659282827:role/amplify-boltayano-dev-201714-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-boltayano-dev-201714-deployment",
+      "UnauthRoleName": "amplify-boltayano-dev-201714-unauthRole",
+      "StackName": "amplify-boltayano-dev-201714",
+      "StackId": "arn:aws:cloudformation:us-east-1:340659282827:stack/amplify-boltayano-dev-201714/2f153f20-1025-11ee-b20e-0af1a24c54bf",
+      "AmplifyAppId": "d3c5yfvcho1380"
+    },
+    "categories": {
+      "api": {
+        "boltayano": {}
+      }
+    }
+  }
+}
